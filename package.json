@@ -44,7 +44,7 @@
 		"into-stream": "^5.1.1",
 		"lodash": "^4.17.15",
 		"moment-timezone": "^0.5.27",
-		"query-string": "^6.8.3",
+		"query-string": "^6.11.1",
 		"slugg": "^1.2.1",
 		"tiny-csv": "^3.0.0"
 	},
